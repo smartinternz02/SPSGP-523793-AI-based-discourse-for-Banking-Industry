@@ -1,0 +1,5 @@
+Link for website: http://skpython.pythonanywhere.com/
+
+Github link for the project files : https://github.com/SanketK24/banking-bot-project
+
+Smartbridge assignment folder link : https://drive.google.com/drive/folders/1nlJaJxjKlraJ7CP6mVy5LyDRiVx49o_5?usp=drive_link
